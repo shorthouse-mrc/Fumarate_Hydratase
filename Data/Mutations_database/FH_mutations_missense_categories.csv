@@ -1,0 +1,109 @@
+,Effect,Exon,DNA Change,Clinical Class,RNA Change,Protein Change,SIFT,Predicted,DNA Change (hg19),DNA Change (hg38),Published As,ISCN,DB_ID,Variant Remarks,Reference,ClinVar ID,dbSNP ID,Origin,Segregation,Frequency,Re-site,VIP,Methylation,Owner,Category,Mutation
+79,?/.,-,c.308C>T,VUS,r.(?),p.(Ala103Val),-,-,g.241676973G>A,-,FH(NM_000143.3):c.308C>T (p.A103V),-,FH_000232,VKGL data sharing initiative Nederland,-,-,-,CLASSIFICATION record,-,-,-,-,-,VKGL-NL,Unknown,A103V
+80,+/+,3,c.349G>C,-,r.(?),p.(Ala117Pro),-,-,g.241676932C>G,g.241513632C>G,p.Ala74Pro,-,FH_000018,Fh enzymatic activity 41%,-,-,-,Unknown,-,-,-,0,-,Audrey Remenieras,LOF,A117P
+81,?/.,5,c.580G>A,-,r.(?),p.(Ala194Thr),-,-,g.241672061C>T,g.241508761C>T,-,-,FH_000173,-,PubMed: Castro-Vega,-,-,Unknown,-,-,-,0,-,Jean-Pierre Bayley,Unknown,A194T
+82,?/+?,5,c.715G>A,-,r.(?),p.(Ala239Thr),-,-,g.241671926C>T,g.241508626C>T,586G>A/Ala196Thr,-,FH_000049,-,PubMed: Lehtonen,-,-,Somatic,-,-,-,0,-,Jean-Pierre Bayley,Unknown,A239T
+83,+/.,-,c.773C>A,pathogenic,r.(?),p.(Ala258Glu),-,-,g.241669434G>T,-,FH(NM_000143.2):c.874_877delAAGG (p.Lys292fs),-,FH_000207,VKGL data sharing initiative Nederland,-,-,-,CLASSIFICATION record,-,-,-,0,-,VKGL-NL,LOF,A258E
+84,?/?,6,c.820G>A,-,r.(?),p.(Ala274Thr),-,-,g.241669387C>T,g.241506087C>T,691G>A/Ala231Thr,-,FH_000053,-,PubMed: Ylisaukko-oja,-,-,Germline,-,-,-,0,-,Jean-Pierre Bayley,Unknown,A274T
+85,?/?,6,c.821C>T,-,r.(?),p.(Ala274Val),-,-,g.241669386G>A,g.241506086G>A,-,-,FH_000156,Low Grantham and high SIFT score - pathogenic?,PubMed: Marque,-,-,Germline,-,-,-,0,-,Jean-Pierre Bayley,PRED_LOF,A274V
+86,?/.,6,c.892G>C,-,r.(?),p.(Ala298Pro),-,-,g.241669315C>G,g.241506015C>G,-,-,FH_000170,0/200 controls,PubMed: Kubinova,-,-,Unknown,-,-,-,0,-,Jean-Pierre Bayley,Unknown,A298P
+87,?/+?,7,c.922G>A,-,r.(?),p.(Ala308Thr),-,-,g.241667528C>T,g.241504228C>T,A265T,-,FH_000063,-,PubMed: Coughlin,-,-,Germline,-,-,-,0,-,Jean-Pierre Bayley,Unknown,A308T
+89,+/?,7,c.950C>T,-,r.(?),p.(Ala317Val),0,-,g.241667500G>A,g.241504200G>A,p.Ala274Val,-,FH_000140,FH enzymatic activity 47%,-,-,-,Unknown,-,-,-,0,-,Audrey Remenieras,LOF,A317V
+90,?/?,8,c.1154C>A,-,r.(?),p.(Ala385Asp),0,-,g.241665825G>T,g.241502525G>T,A342D,-,FH_000086,not in 320 chrom,PubMed: Wei,-,-,Germline,-,-,-,0,-,Jean-Pierre Bayley,Unknown,A385D
+108,?/+?,3,c.302G>C,-,r.(?),p.(Arg101Pro),-,-,g.241676979C>G,g.241513679C>G,173 CGA>CCA R58P,-,FH_000015,-,"PubMed: Chan, PubMed: Heinritz",-,-,Germline,-,-,-,0,-,Jean-Pierre Bayley,Unknown,R101P
+93,?/+?,4,c.478A>G,-,r.(?),p.(Arg160Gly),-,-,g.241675344T>C,g.241512044T>C,R117G,-,FH_000029,not found in 320 chrom,PubMed: Wei,-,-,Germline,-,-,-,0,-,Jean-Pierre Bayley,Unknown,R160G
+94,+/.,-,c.697C>T,pathogenic,r.(?),p.(Arg233Cys),-,-,g.241671944G>A,-,FH(NM_000143.3):c.697C>T (p.Arg233Cys),-,FH_000046,VKGL data sharing initiative Nederland,-,-,-,CLASSIFICATION record,-,-,-,0,-,VKGL-NL,LOF,R233C
+95,+/.,-,c.698G>A,pathogenic,r.(?),p.(Arg233His),-,-,g.241671943C>T,-,FH(NM_000143.3):c.698G>A (p.Arg233His),-,FH_000048,VKGL data sharing initiative Nederland,-,-,-,CLASSIFICATION record,-,-,-,-,-,VKGL-NL_Rotterdam,LOF,R233H
+96,?/+?,5,c.698G>T,-,r.(?),p.(Arg233Leu),0,-,g.241671943C>A,g.241508643C>A,R190L,-,FH_000047,not found in 420 chrom,"PubMed: Chuang,��PubMed: Toro",-,-,Germline,yes,-,-,0,-,Jean-Pierre Bayley,Unknown,R233L
+97,?/.,6,c.782G>T,-,r.(?),p.(Arg261Ile),-,-,g.241669425C>A,g.241506125C>A,-,-,FH_000171,-,PubMed: Ezgu,-,-,Unknown,-,-,-,0,-,Jean-Pierre Bayley,Unknown,R261I
+98,-/.,-,c.802A>G,benign,r.(?),p.(Arg268Gly),-,-,g.241669405T>C,-,FH(NM_000143.3):c.802A>G (p.Arg268Gly),-,FH_000206,VKGL data sharing initiative Nederland,-,-,-,CLASSIFICATION record,-,-,-,0,-,VKGL-NL,Benign,R268G
+104,?/.,-,c.1049G>A,VUS,r.(?),p.(Arg350Gln),-,-,g.241667401C>T,-,FH(NM_000143.3):c.1049G>A (p.Arg350Gln),-,FH_000202,VKGL data sharing initiative Nederland,-,-,-,CLASSIFICATION record,-,-,-,0,-,VKGL-NL,Unknown,R350Q
+105,?/.,-,c.1048C>T,VUS,r.(?),p.(Arg350Trp),-,-,g.241667402G>A,-,FH(NM_000143.3):c.1048C>T (p.(Arg350Trp)),-,FH_000228,VKGL data sharing initiative Nederland,-,-,-,CLASSIFICATION record,-,-,-,-,-,VKGL-NL,Unknown,R350W
+107,?/.,-,c.1330A>G,VUS,r.(?),p.(Arg444Gly),-,-,g.241663797T>C,-,FH(NM_000143.3):c.1330A>G (p.Arg444Gly),-,FH_000199,VKGL data sharing initiative Nederland,-,-,-,CLASSIFICATION record,-,-,-,0,-,VKGL-NL,Unknown,R444G
+108,?/+?,2,c.152G>A,-,r.(?),p.(Arg51Gln),-,-,g.241680597C>T,g.241517297C>T,Arg8Glu,-,FH_000005,-,PubMed: Kiuru,-,-,Somatic,-,-,-,0,-,Jean-Pierre Bayley,Unknown,R51Q
+110,?/.,-,c.260G>A,VUS,r.(?),p.(Arg87His),-,-,g.241680489C>T,-,FH(NM_000143.3):c.260G>A (p.R87H),-,FH_000233,VKGL data sharing initiative Nederland,-,-,-,CLASSIFICATION record,-,-,-,-,-,VKGL-NL,Unknown,R87H
+111,+?/.,-,c.320A>T,-,r.(?),p.(Asn107Ile),-,-,g.241676961T>A,-,-,-,FH_000217,-,-,-,-,Germline/De novo (untested),-,-,-,0,-,Gemeinschaftspraxis f�_r Humangenetik Dresden,Unknown,N107I
+112,?/+?,3,c.320A>C,-,r.(?),p.(Asn107Thr),-,-,g.241676961T>G,g.241513661T>G,"Asn64Thr, N64T",-,FH_000017,"UK, not found in 300 chrom","PubMed: Tomlinson,��PubMed: Alam,��PubMed: Carvajal-Carmona",-,-,Germline,-,-,-,0,-,Jean-Pierre Bayley,Unknown,N107T
+121,+/.,-,c.563A>G,pathogenic,r.(?),p.(Asn188Ser),-,-,g.241672078T>C,-,"FH(NM_000143,3):c.563A>G (p.Asn188Ser)",-,FH_000038,VKGL data sharing initiative Nederland,-,-,-,CLASSIFICATION record,-,-,-,0,-,VKGL-NL,LOF,N188S
+122,?/+?,7,c.928A>T,-,r.(?),p.(Asn310Tyr),-,-,g.241667522T>A,g.241504222T>A,N267Y,-,FH_000065,-,PubMed: Alam,-,-,Germline,-,-,-,0,-,Jean-Pierre Bayley,Unknown,N310Y
+123,?/.,7,c.986A>G,-,r.(?),p.(Asn329Ser),-,-,g.241667464T>C,g.241504164T>C,-,-,FH_000169,-,PubMed: Castro-Vega,-,-,Unknown,-,-,-,0,-,Jean-Pierre Bayley,Unknown,N329S
+124,?/+?,7,c.1020T>A,-,r.(?),p.(Asn340Lys),0,-,g.241667430A>T,g.241504130A>T,"c.(T891A), N297D, c.(891T>A), N297K",-,FH_000072,not found in 420 chrom,"PubMed: Toro,��PubMed: Wei",-,-,Germline,yes,-,-,0,-,Jean-Pierre Bayley,Unknown,N340K
+126,?/+?,7,c.1083T>A,-,r.(?),p.(Asn361Lys),0.1,-,g.241667367A>T,g.241504067A>T,N318K,-,FH_000078,-,PubMed: Alam,-,-,Germline,-,-,-,0,-,Jean-Pierre Bayley,Unknown,N361K
+128,+/?,8,c.1117A>G,-,r.(?),p.(Asn373Asp),-,-,g.241665862T>C,g.241502562T>C,p.Asn330Asp,-,FH_000151,Fh enzymatic activity: 47%,-,-,-,Unknown,-,-,-,0,-,Audrey Remenieras,LOF,N373D
+129,+/-?,8,c.1118A>G,-,r.(?),p.(Asn373Ser),0,-,g.241665861T>C,g.241502561T>C,p.Asn330Ser,-,FH_000083,Fh enzymatic activity 39%,-,-,-,Unknown,-,-,-,0,-,Audrey Remenieras,LOF,N373S
+132,+/.,-,c.565G>A,pathogenic,r.(?),p.(Asp189Asn),-,-,g.241672076C>T,-,FH(NM_000143.3):c.565G>A (p.Asp189Asn),-,FH_000209,VKGL data sharing initiative Nederland,-,-,-,CLASSIFICATION record,-,-,-,0,-,VKGL-NL,LOF,D189N
+133,-?/.,-,c.648T>A,likely benign,r.(?),p.(Asp216Glu),-,-,g.241671993A>T,-,FH(NM_000143.3):c.648T>A (p.D216E),-,FH_000215,VKGL data sharing initiative Nederland,-,-,-,CLASSIFICATION record,-,-,-,0,-,VKGL-NL_Groningen,Benign,D216E
+136,?/.,7,c.1021G>A,-,r.(?),p.(Asp341Asn),-,-,g.241667429C>T,g.241504129C>T,-,-,FH_000181,"heterozygous, SNPs3D: -1.91 (Overpacking, salt bridge lost) SNP&GO: 8 (disease), promoter hypermethylation",PubMed: Vaidya,-,-,Unknown,-,-,-,0,-,Jean-Pierre Bayley,PRED_LOF,D341N
+137,+/.,-,c.1022A>G,-,r.(?),p.(Asp341Gly),-,-,g.241667428T>C,g.241504128T>C,-,-,FH_000166,p.Asp341Tyr,-,-,-,Germline,-,-,-,0,-,Andreas Laner,Unknown,D341G
+138,?/?,7,c.1021G>T,-,r.(?),p.(Asp341Tyr),0,-,g.241667429C>A,g.241504129C>A,-,-,FH_000157,-,PubMed: Rongioletti,-,-,Germline,-,-,-,0,-,Jean-Pierre Bayley,Unknown,D341Y
+139,?/+?,9,c.1274A>T,-,r.(?),p.(Asp425Val),0.02,-,g.241663853T>A,g.241500553T>A,D383V,-,FH_000095,-,PubMed: Coughlin,-,-,Germline,-,-,-,0,-,Jean-Pierre Bayley,Unknown,D425V
+141,+/+,7,c.998G>A,-,r.(?),p.(Cys333Tyr),-,-,g.241667452C>T,g.241504152C>T,p.Cys290Tyr,-,FH_000118,FH enzymatic activity 40%,-,-,-,Unknown,-,-,-,0,-,Audrey Remenieras,LOF,C333Y
+143,+/.,-,c.1130G>T,pathogenic,r.(?),p.(Cys377Phe),-,-,g.241665849C>A,-,FH(NM_000143.3):c.1130G>T (p.Cys377Phe),-,FH_000201,VKGL data sharing initiative Nederland,-,-,-,CLASSIFICATION record,-,-,-,0,-,VKGL-NL,LOF,C377F
+144,+/.,-,c.1301G>A,pathogenic,r.(?),p.(Cys434Tyr),-,-,g.241663826C>T,-,FH(NM_000143.3):c.1301G>A (p.Cys434Tyr),-,FH_000182,VKGL data sharing initiative Nederland,-,-,-,CLASSIFICATION record,-,-,-,0,-,VKGL-NL,LOF,C434Y
+145,?/+?,4,c.424C>A,-,r.(?),p.(Gln142Lys),-,-,g.241675398G>T,g.241512098G>T,424G > A/Q142K,-,FH_000026,-,PubMed: Badeloe,-,-,Germline,-,-,-,0,-,Jean-Pierre Bayley,Unknown,Q142K
+148,+/+?,4,c.554A>G,-,r.(?),p.(Gln185Arg),0.14,-,g.241675268T>C,g.241511968T>C,Gln142Arg,-,FH_000033,"UK, not found in 300 chrom",PubMed: Tomlinson,-,-,Germline,-,-,-,0,-,Jean-Pierre Bayley,Unknown,Q185R
+150,+/?,6,c.761A>G,-,r.(?),p.(Gln254Arg),0,-,g.241669446T>C,g.241506146T>C,p.Gln211Arg,-,FH_000139,FH enzymatic activity 35%,-,-,-,Unknown,-,-,-,0,-,Audrey Remenieras,LOF,Q254R
+151,?/+?,8,c.1127A>C,-,r.(?),p.(Gln376Pro),-,-,g.241665852T>G,g.241502552T>G,"1127A>C/Gln376Pro,Q13P/998A>C, Q333P",-,FH_000084,-,PubMed: Zeman,-,-,Germline,-,-,-,0,-,Jean-Pierre Bayley,Unknown,Q376P
+155,+/+,8,c.1157A>G,-,r.(?),p.(Gln386Arg),0,-,g.241665822T>C,g.241502522T>C,p.Gln343Arg,-,FH_000126,FH enzymatic activity 61%,-,-,-,Unknown,-,-,-,0,-,Audrey Remenieras,LOF,Q386R
+157,?/?,9,c.1316A>C,-,r.(?),p.(Gln439Pro),-,-,g.241663811T>G,g.241500511T>G,"Q396P, nucleotide 1187 in exon 8, Gln396Pro",-,FH_000097,not in 320 chrom; Pathogenic? UOK 262 cell line,"PubMed: Wei,��PubMed: Yang",-,-,Germline,-,-,-,0,-,Jean-Pierre Bayley,Unknown,Q439P
+161,+/.,-,c.378G>C,pathogenic,r.(?),p.(Glu126Asp),-,-,g.241676903C>G,-,FH(NM_000143.3):c.378G>C (p.Glu126Asp),-,FH_000212,VKGL data sharing initiative Nederland,-,-,-,CLASSIFICATION record,-,-,-,0,-,VKGL-NL,LOF,E126D
+167,+/+?,7,c.1063G>A,-,r.(?),p.(Glu355Lys),-,-,g.241667387C>T,g.241504087C>T,E312K,-,FH_000075,-,PubMed: Alam,-,-,Germline,-,-,-,0,-,Jean-Pierre Bayley,Unknown,E355K
+168,?/?,7,c.1084G>C,-,r.(?),p.(Glu362Gln),-,-,g.241667366C>G,g.241504066C>G,Glu319Gln,-,FH_000079,-,PubMed: Bourgeron,-,-,Germline,-,-,-,0,-,Jean-Pierre Bayley,Unknown,E362Q
+178,?/.,2,c.157G>A,-,r.(?),p.(Glu53Lys),damaging,-,g.241680592C>T,g.241517292C>T,-,-,FH_000176,-,PubMed: Clark,-,-,Unknown,-,-,-,0,-,Jean-Pierre Bayley,Unknown,E53K
+181,+/.,-,c.824G>A,pathogenic,r.(?),p.(Gly275Glu),-,-,g.241669383C>T,-,FH(NM_000143.3):c.824G>A (p.Gly275Glu),-,FH_000114,VKGL data sharing initiative Nederland,-,-,-,CLASSIFICATION record,-,-,-,0,-,VKGL-NL,LOF,G275E
+182,+/+?,6,c.845G>T,-,r.(?),p.(Gly282Val),-,-,g.241669362C>A,g.241506062C>A,"Gly239Val, G239V",-,FH_000054,"UK, not found in 300 chrom","PubMed: Tomlinson,��PubMed: Alam",-,-,Germline,-,-,-,0,-,Jean-Pierre Bayley,Unknown,G282V
+185,?/.,7,c.1037G>A,-,r.(?),p.(Gly346Asp),-,-,g.241667413C>T,g.241504113C>T,-,-,FH_000180,compound heterozygous,PubMed: Tregoning,-,-,Unknown,-,-,-,0,-,Jean-Pierre Bayley,Unknown,G346D
+186,?/.,7,c.1060G>A,-,r.(?),p.(Gly354Arg),-,-,g.241667390C>T,g.241504090C>T,-,-,FH_000179,-,PubMed: Reyes,-,-,Unknown,-,-,-,0,-,Jean-Pierre Bayley,Unknown,G354R
+187,+/.,-,c.1189G>A,pathogenic,r.(?),p.(Gly397Arg),-,-,g.241665790C>T,-,FH(NM_000143.3):c.1189G>A (p.Gly397Arg),-,FH_000090,VKGL data sharing initiative Nederland,-,-,-,CLASSIFICATION record,-,-,-,0,-,VKGL-NL,LOF,G397R
+189,?/.,2,c.206G>T,-,r.(?),p.(Gly69Val),-,-,g.241680543C>A,g.241517243C>A,G69V,-,FH_000175,-,PubMed: Laufer,-,-,Unknown,-,-,-,0,-,Jean-Pierre Bayley,Unknown,G69V
+190,?/.,-,c.290G>A,VUS,r.(?),p.(Gly97Asp),-,-,g.241676991C>T,-,FH(NM_000143.3):c.290G>A (p.Gly97Asp),-,FH_000213,VKGL data sharing initiative Nederland,-,-,-,CLASSIFICATION record,-,-,-,0,-,VKGL-NL,Unknown,G97D
+191,?/+?,4,c.404A>G,-,r.(?),p.(His135Arg),-,-,g.241675418T>C,g.241512118T>C,H92R,-,FH_000024,-,PubMed: Chuang,-,-,Germline,-,-,-,0,-,Jean-Pierre Bayley,Unknown,H135R
+192,+/+?,4,c.539A>G,-,r.(?),p.(His180Arg),-,-,g.241675283T>C,g.241511983T>C,p.His137Arg,-,FH_000031,FH enzymatic activity : 45%,-,-,-,Unknown,-,-,-,0,-,Audrey Remenieras,LOF,H180R
+193,+/.,-,c.587A>G,pathogenic,r.(?),p.(His196Arg),-,-,g.241672054T>C,-,FH(NM_000143.2):c.587A>G (p.His196Arg),-,FH_000041,VKGL data sharing initiative Nederland,-,-,-,CLASSIFICATION record,-,-,-,0,-,VKGL-NL,LOF,H196R
+194,+/?,5,c.704A>G,-,r.(?),p.(His235Arg),-,-,g.241671937T>C,g.241508637T>C,p.His192Arg,-,FH_000148,FH enzymatic activity 45%,-,-,-,Unknown,-,-,-,0,-,Audrey Remenieras,LOF,H235R
+195,?/?,7,c.953A>T,-,r.(?),p.(His318Leu),-,-,g.241667497T>A,g.241504197T>A,H275L,-,FH_000068,-,PubMed: Deschauer,-,-,Germline,-,-,-,0,-,Jean-Pierre Bayley,Unknown,H318L
+196,+/.,-,c.952C>T,pathogenic,r.(?),p.(His318Tyr),-,-,g.241667498G>A,-,FH(NM_000143.2):c.952C>T (p.His318Tyr),-,FH_000067,VKGL data sharing initiative Nederland,-,-,-,CLASSIFICATION record,-,-,-,0,-,VKGL-NL,LOF,H318Y
+197,?/+?,8,c.1204C>T,-,r.(?),p.(His402Tyr),-,-,g.241665775G>A,g.241502475G>A,H360C/1078C>T,-,FH_000076,-,PubMed: Phillips,-,-,Germline,-,-,-,0,-,Jean-Pierre Bayley,Unknown,H402Y
+199,+/?,5,c.686T>C,-,r.(?),p.(Ile229Thr),-,-,g.241671955A>G,g.241508655A>G,I186T,-,FH_000044,-,PubMed: Alam,-,-,Germline,-,-,-,0,-,Jean-Pierre Bayley,Unknown,I229T
+204,?/+?,4,c.395T>C,-,r.(?),p.(Leu132Ser),-,-,g.241675427A>G,g.241512127A>G,L89S,-,FH_000023,"not in 320 chrom, reduced FH activity",PubMed: Wei,-,-,Germline,-,-,-,0,-,Jean-Pierre Bayley,Unknown,L132S
+205,+/?,5,c.632T>C,-,r.(?),p.(Leu211Pro),-,-,g.241672009A>G,g.241508709A>G,p.Leu168Pro,-,FH_000143,FH enzymatic activity 53%,-,-,-,Unknown,-,-,-,0,-,Audrey Remenieras,LOF,L211P
+206,+/?,5,c.653T>C,-,r.(?),p.(Leu218Pro),-,-,g.241671988A>G,g.241508688A>G,-,-,FH_000153,-,-,-,-,Unknown,-,-,-,0,-,LAURENCE HUBERT,Unknown,L218P
+207,+/.,-,c.731T>C,-,r.(?),p.(Leu244Pro),-,-,g.241671910A>G,g.241508610A>G,-,-,FH_000163,-,-,-,-,Germline,-,-,-,0,-,Andreas Laner,Unknown,L244P
+210,+?/?,7,c.908T>C,-,r.(?),p.(Leu303Ser),-,-,g.241667542A>G,g.241504242A>G,"779T to C, L260S",-,FH_000113,-,"Kimonis VE, Shih K, Mandell R, Shih VE. Clinical, Radiological and Molecular Studies in a Girl with Fumarase Deficiency. J Inherit Metab Dis. 2000; 23: 112.",-,-,Germline,-,-,-,0,-,Jean-Pierre Bayley,Unknown,L303S
+211,+/?,7,c.944T>C,-,r.(?),p.(Leu315Pro),0,-,g.241667506A>G,g.241504206A>G,p.Leu272Pro,-,FH_000131,FH enzymatic activity 46%,-,-,-,Unknown,-,-,-,0,-,Audrey Remenieras,LOF,L315P
+212,?/+?,7,c.1004T>C,-,r.(?),p.(Leu335Pro),0,-,g.241667446A>G,g.241504146A>G,L292P,-,FH_000071,not found in 420 chrom,PubMed: Toro,-,-,Germline,yes,-,-,0,-,Jean-Pierre Bayley,Unknown,L335P
+214,+/?,9,c.1358T>C,-,r.(?),p.(Leu453Pro),-,-,g.241663769A>G,g.241500469A>G,-,-,FH_000152,-,-,-,-,Unknown,-,-,-,0,-,LAURENCE HUBERT,Unknown,L453P
+216,+/?,10,c.1520T>C,-,r.(?),p.(Leu507Pro),-,-,g.241661141A>G,g.241497841A>G,L464P,-,FH_000106,-,PubMed: Alam,-,-,Germline,-,-,-,0,-,Jean-Pierre Bayley,Unknown,L507P
+218,+/.,-,c.689A>G,pathogenic,r.(?),p.(Lys230Arg),-,-,g.241671952T>C,-,FH(NM_000143.3):c.689A>G (p.Lys230Arg),-,FH_000045,VKGL data sharing initiative Nederland,-,-,-,CLASSIFICATION record,-,-,-,0,-,VKGL-NL,LOF,K230R
+220,?/.,7,c.1010A>C,-,r.(?),p.(Lys337Thr),-,-,g.241667440T>G,g.241504140T>G,-,-,FH_000168,"heterozygous, SNPs3D: -1.91, SNP&GO: 9 (disease), promoter hypermethylation",PubMed: Vaidya,-,-,Unknown,-,-,-,0,-,Jean-Pierre Bayley,Unknown,K337T
+221,?/?,10,c.1400A>G,-,r.(?),p.(Lys467Arg),0,-,g.241661261T>C,g.241497961T>C,1432A>G/K424R,-,FH_000101,-,PubMed: Ylisaukko-oja,-,rs2275162,Germline,-,-,-,0,-,Jean-Pierre Bayley,Unknown,K467R
+233,?/?,5,c.584T>C,-,r.(?),p.(Met195Thr),-,-,g.241672057A>G,g.241508757A>G,M152T,-,FH_000040,not found in 420 chrom,PubMed: Toro,-,-,Germline,yes,-,-,0,-,Jean-Pierre Bayley,Unknown,M195T
+234,?/.,5,c.583A>G,-,r.(?),p.(Met195Val),-,-,g.241672058T>C,g.241508758T>C,-,-,FH_000172,"0/94 healthy Finnish controlls, LOH",PubMed: Tolvanen,-,-,Unknown,-,-,-,0,-,Jean-Pierre Bayley,Unknown,M195V
+237,+?/+?,7,c.1103T>C,-,r.(?),p.(Met368Thr),0,-,g.241667347A>G,g.241504047A>G,M368T,-,FH_000108,-,PubMed: Badeloe,-,-,Germline,-,-,-,0,-,Jean-Pierre Bayley,Unknown,M368T
+238,+?/+?,8,c.1144A>G,-,r.(?),p.(Met382Val),-,-,g.241665835T>C,g.241502535T>C,-,-,FH_000116,-,PubMed: Smit,-,-,Germline,-,-,-,0,-,Jean-Pierre Bayley,Unknown,M382V
+247,?/?,9,c.1362G>A,-,r.(?),p.(Met454Ile),-,-,g.241663765C>T,g.241500465C>T,M411I,-,FH_000099,"Somatic?, LOH",PubMed: Carvajal-Carmona,-,-,Somatic,-,-,-,0,-,Jean-Pierre Bayley,Unknown,M454I
+249,?/+?,7,c.935T>G,-,r.(?),p.(Phe312Cys),-,-,g.241667515A>C,g.241504215A>C,F269C,-,FH_000066,Ashkenazi Jewish,PubMed: Coughlin,-,-,Germline,-,-,-,0,-,Jean-Pierre Bayley,Unknown,F312C
+250,+/?,7,c.935T>C,-,r.(?),p.(Phe312Ser),-,-,g.241667515A>G,g.241504215A>G,p.Phe269Ser,-,FH_000149,FH enzymatic activity: 36%,-,-,-,Unknown,-,-,-,0,-,Audrey Remenieras,LOF,F312S
+251,+/.,-,c.521C>G,pathogenic,r.(?),p.(Pro174Arg),-,-,g.241675301G>C,-,FH(NM_000143.3):c.521C>G (p.(Pro174Arg)),-,FH_000030,VKGL data sharing initiative Nederland,-,-,-,CLASSIFICATION record,-,-,-,-,-,VKGL-NL,LOF,P174R
+253,?/+?,5,c.575C>T,-,r.(?),p.(Pro192Leu),-,-,g.241672066G>A,g.241508766G>A,P149L,-,FH_000039,-,PubMed: Chuang,-,-,Germline,-,-,-,0,-,Jean-Pierre Bayley,Unknown,P192L
+254,-?/.,-,c.925C>T,likely benign,r.(?),p.(Pro309Ser),-,-,g.241667525G>A,-,FH(NM_000143.3):c.925C>T (p.Pro309Ser),-,FH_000203,VKGL data sharing initiative Nederland,-,-,-,CLASSIFICATION record,-,-,-,0,-,VKGL-NL,Benign,P309S
+255,?/+?,7,c.1105C>T,-,r.(?),p.(Pro369Ser),-,-,g.241667345G>A,g.241504045G>A,c.976C>T,-,FH_000082,-,PubMed: Maradin,-,-,Germline,-,-,-,0,-,Jean-Pierre Bayley,Unknown,P369S
+256,?/?,8,c.1120C>T,-,r.(?),p.(Pro374Ser),0,-,g.241665859G>A,g.241502559G>A,P374S,-,FH_000155,-,PubMed: Gatalica,-,-,Somatic,-,-,-,0,-,Jean-Pierre Bayley,Unknown,P374S
+259,?/+?,4,c.473G>T,-,r.(?),p.(Ser158Ile),-,-,g.241675349C>A,g.241512049C>A,S115I,-,FH_000028,-,PubMed: Martinez-Mir,-,-,Germline,-,-,-,0,-,Jean-Pierre Bayley,Unknown,S158I
+260,+/?,4,c.512G>A,-,r.(?),p.(Ser171Asn),-,-,g.241675310C>T,g.241512010C>T,-,-,FH_000154,-,-,-,-,Unknown,-,-,-,0,-,LAURENCE HUBERT,Unknown,S171N
+262,?/+?,5,c.560C>T,-,r.(?),p.(Ser187Leu),0.8,-,g.241672081G>A,g.241508781G>A,S144L,-,FH_000037,not found in 420 chrom,PubMed: Toro,-,-,Germline,yes,-,-,0,-,Jean-Pierre Bayley,Unknown,S187L
+263,+/.,-,c.1002T>G,pathogenic,r.(?),p.(Ser334Arg),-,-,g.241667448A>C,-,"FH(NM_000143,3):c.1002T>G (p.Ser334Arg)",-,FH_000109,VKGL data sharing initiative Nederland,-,-,-,CLASSIFICATION record,-,-,-,0,-,VKGL-NL,LOF,S334R
+264,?/+?,7,c.1093A>G,-,r.(?),p.(Ser365Gly),-,-,g.241667357T>C,g.241504057T>C,S322G,-,FH_000080,not found in 420 chrom,"PubMed: Toro,��PubMed: Wei",-,-,Germline,yes,-,-,0,-,Jean-Pierre Bayley,Unknown,S365G
+266,?/+?,7,c.1097G>A,-,r.(?),p.(Ser366Asn),-,-,g.241667353C>T,g.241504053C>T,S323N,-,FH_000081,"UK, USA, not found in 420 chrom","PubMed: Toro,��PubMed: Alam",-,-,Germline,yes,-,-,0,-,Jean-Pierre Bayley,Unknown,S366N
+268,?/.,-,c.1196G>A,VUS,r.(?),p.(Ser399Asn),-,-,g.241665783C>T,-,FH(NM_000143.3):c.1196G>A (p.(Ser399Asn)),-,FH_000226,VKGL data sharing initiative Nederland,-,-,-,CLASSIFICATION record,-,-,-,-,-,VKGL-NL,Unknown,S399N
+269,?/+?,9,c.1255T>C,-,r.(?),p.(Ser419Pro),-,-,g.241663872A>G,g.241500572A>G,S376P,-,FH_000093,not in 320 chrom,PubMed: Wei,-,-,Germline,-,-,-,0,-,Jean-Pierre Bayley,Unknown,S419P
+272,+?/.,-,c.830C>T,likely pathogenic,r.(?),p.(Thr277Ile),-,-,g.241669377G>A,-,FH(NM_000143.2):c.830C>T (p.Thr277Ile),-,FH_000205,VKGL data sharing initiative Nederland,-,-,-,CLASSIFICATION record,-,-,-,0,-,VKGL-NL,LOF,T277I
+273,?/+?,7,c.988A>C,-,r.(?),p.(Thr330Pro),-,-,g.241667462T>G,g.241504162T>G,T287P,-,FH_000070,not found in 110 chrom,PubMed: Chuang,-,-,Germline,-,-,-,0,-,Jean-Pierre Bayley,Unknown,T330P
+274,+/.,-,c.1124C>T,pathogenic,r.(?),p.(Thr375Ile),-,-,g.241665855G>A,-,FH(NM_000143.3):c.1124C>T (p.Thr375Ile),-,FH_000227,VKGL data sharing initiative Nederland,-,-,-,CLASSIFICATION record,-,-,-,-,-,VKGL-NL,LOF,T375I
+276,?/.,8,c.1142C>T,-,r.(?),p.(Thr381Ile),-,-,g.241665837G>A,g.241502537G>A,-,-,FH_000177,LOH,PubMed: Castro-Vega,-,-,Unknown,-,-,-,0,-,Jean-Pierre Bayley,Unknown,T381I
+280,+/+,10,c.1394A>G,-,r.(?),p.(Tyr465Cys),0,-,g.241661267T>C,g.241497967T>C,p.Tyr422Cys,-,FH_000100,FH enzymatic activity: reduced,PubMed: Pithukpakorn 2006,-,-,Unknown,-,-,-,0,-,Audrey Remenieras,LOF,Y465C
+281,?/.,4,c.419T>G,-,r.(?),p.(Val140Gly),-,-,g.241675403A>C,g.241512103A>C,-,-,FH_000174,-,PubMed: Espa̱a,-,-,Unknown,-,-,-,0,-,Jean-Pierre Bayley,Unknown,V140G
+283,?/+?,7,c.965T>A,-,r.(?),p.(Val322Asp),-,-,g.241667485A>T,g.241504185A>T,V279D,-,FH_000069,not found in 420 chrom,PubMed: Toro,-,-,Germline,yes,-,-,0,-,Jean-Pierre Bayley,Unknown,V322D
+284,?/?,8,c.1180G>C,-,r.(?),p.(Val394Leu),-,-,g.241665799C>G,g.241502499C>G,V351L,-,FH_000089,-,PubMed: Martinez-Mir,-,-,Germline,yes,-,-,0,-,Jean-Pierre Bayley,Unknown,V394L
+285,?/.,-,c.1303G>A,VUS,r.(?),p.(Val435Met),-,-,g.241663824C>T,-,FH(NM_000143.3):c.1303G>A (p.Val435Met),-,FH_000218,VKGL data sharing initiative Nederland,-,-,-,CLASSIFICATION record,-,-,-,-,-,VKGL-NL,Unknown,V435M
+286,-?/.,-,c.217G>A,likely benign,r.(?),p.(Val73Met),-,-,g.241680532C>T,-,FH(NM_000143.3):c.217G>A (p.Val73Met),-,FH_000234,VKGL data sharing initiative Nederland,-,-,-,CLASSIFICATION record,-,-,-,-,-,VKGL-NL,Benign,V73M

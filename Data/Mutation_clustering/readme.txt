@@ -1,1 +1,1 @@
-
+Contains code for generating the mutational clustering data. Mutations are parsed from the database, then a file is generated containing the mutations in binary format. Clustering is run using NMC and the clusters are written to the file "FH_1D_mutationclusters.csv"

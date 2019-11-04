@@ -1,0 +1,1 @@
+Data on the structure used - included is the raw structure file after repair using Foldx, plus the file containing every mutation and its relevant data (binding site and hingesite distances, and ddg according to Foldx and Rosetta)
